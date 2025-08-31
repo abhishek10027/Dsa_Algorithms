@@ -1,4 +1,3 @@
-package myproject;
 
 public class majority_element {
 	static int majority(int [] arr) {
@@ -23,3 +22,4 @@ public class majority_element {
 	}
 
 }
+
