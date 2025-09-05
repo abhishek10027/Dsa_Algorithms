@@ -1,4 +1,3 @@
-package myproject;
 
 public class LeaderInArray {
 	public static void findleader(int [] arr) {
@@ -20,3 +19,4 @@ public class LeaderInArray {
 	}
 
 }
+
