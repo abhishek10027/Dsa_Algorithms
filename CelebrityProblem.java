@@ -1,6 +1,4 @@
-package myproject;
-import java.util.Scanner;
-import java.util.Stack;
+
 public class CelebrityProblem {
 	// This program for 4 x 4 matrix ,if n X n then change the size of the matrix in below static int matrix function
 	static int matrix[][]= {{0,0,0,0},
@@ -54,3 +52,4 @@ public class CelebrityProblem {
 	}
 
 }
+
