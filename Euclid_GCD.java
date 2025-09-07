@@ -1,5 +1,4 @@
-package DSA;
-import java.util.Scanner;
+
 
 public class Euclid_GCD {
 	static int e_gcd(int a,int b){
@@ -21,3 +20,4 @@ public class Euclid_GCD {
 	}
 
 }
+
