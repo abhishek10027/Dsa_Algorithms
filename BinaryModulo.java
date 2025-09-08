@@ -1,4 +1,4 @@
-package JavaProgram.GFG;
+
 
 import java.util.Scanner;
 
@@ -31,3 +31,4 @@ public class BinaryModulo {
 	}
 
 }
+
