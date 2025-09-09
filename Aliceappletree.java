@@ -1,6 +1,4 @@
-package myproject;
 
-import java .util.Scanner;  
 
 public class Aliceappletree {
 	static int appletree(int n,int s,int e,int w,int m,int k) {
@@ -33,4 +31,5 @@ public static void main(String args[]) {
 	
 	}
 }
+
 
