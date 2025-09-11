@@ -1,5 +1,3 @@
-
-
 public class Euclid_GCD {
 	static int e_gcd(int a,int b){
 		if(b==0) {
@@ -20,4 +18,5 @@ public class Euclid_GCD {
 	}
 
 }
+
 
