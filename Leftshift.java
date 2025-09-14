@@ -1,4 +1,4 @@
-package myproject;
+
 
 
 import java.util.*;
@@ -16,3 +16,4 @@ public class Leftshift {
 	}
 
 }
+
