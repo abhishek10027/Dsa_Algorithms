@@ -1,4 +1,4 @@
-package myproject.Tee;
+
 
 public class MaximumSum {
 	static int findMaxSum(int []arr, int n)
@@ -33,3 +33,4 @@ public class MaximumSum {
     }
 
 }
+
