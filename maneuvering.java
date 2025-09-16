@@ -1,4 +1,4 @@
-package myproject;
+
 
 public class maneuvering {
 	static int row =4;
@@ -13,3 +13,4 @@ public class maneuvering {
 	}
 
 }
+
