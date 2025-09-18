@@ -1,4 +1,4 @@
-package myproject;
+
 
 public class first_palindrome {
 	public static boolean isPalindrome(String str) {
@@ -26,3 +26,4 @@ public class first_palindrome {
 		System.out.println("\nThe first palindrome is :- "+firstPalindrome(words));
 	}
 }
+
