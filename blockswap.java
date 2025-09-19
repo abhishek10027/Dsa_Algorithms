@@ -1,5 +1,4 @@
-package myproject;
-import java.util.*;
+
 public class blockswap {
 	public static void swap(int arr[],int a,int b,int r) {
 		for (int i=0;i<r;i++) {
@@ -46,3 +45,4 @@ public class blockswap {
 	}
 
 }
+
