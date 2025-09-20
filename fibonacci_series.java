@@ -1,4 +1,4 @@
-package myproject;
+
 
 import java.util.*;
 public class fibonacci_series {
@@ -21,3 +21,4 @@ public class fibonacci_series {
 	}
 
 }
+
