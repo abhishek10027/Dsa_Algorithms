@@ -1,5 +1,4 @@
-package myproject;
-import java.util.Scanner;
+
 
 public class binary_palindrome {
 	public static boolean isBinaryPalindrome(int num) {
@@ -23,3 +22,4 @@ public class binary_palindrome {
 	}
 
 }
+
