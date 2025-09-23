@@ -1,4 +1,4 @@
-package myproject;
+
 
 import java.util.ArrayList;
 
@@ -26,3 +26,4 @@ public class josephus_trap {
 	}
 
 }
+
