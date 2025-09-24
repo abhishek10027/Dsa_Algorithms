@@ -1,5 +1,4 @@
-package myproject;
-import java.util.*;
+
 public class flippingnumber_bit {
 	static int flipbit(int n) {
 		int max =0;
@@ -26,3 +25,4 @@ public class flippingnumber_bit {
 	}
 
 }
+
