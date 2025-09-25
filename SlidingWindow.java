@@ -1,4 +1,3 @@
-package myproject;
 
 public class SlidingWindow {
 	static void slide(int arr[],int k) {
@@ -22,3 +21,4 @@ public class SlidingWindow {
 		slide(arr,3);
 	}
    }
+
