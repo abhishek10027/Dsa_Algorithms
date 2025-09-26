@@ -1,5 +1,4 @@
-package myproject;
-import java.util.*;
+
 public class stobogrammatic {
 	public static void main(String args[]) {
 		
@@ -42,4 +41,5 @@ public static boolean is_stobogrammatic(String n){
 		}
 		return true;
 	}
+
 }
