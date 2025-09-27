@@ -1,4 +1,4 @@
-package myproject;
+
 import java.util.Scanner;
 public class eular_phi {
 	static int gcd(int a, int b) {
@@ -23,4 +23,5 @@ public class eular_phi {
 		
 		
 }
+
 }
