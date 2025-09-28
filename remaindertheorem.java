@@ -1,6 +1,4 @@
-package myproject;
 
-import java.io.*;
 
 public class remaindertheorem {
       
@@ -36,3 +34,4 @@ public class remaindertheorem {
     }
 }
   
+
