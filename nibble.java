@@ -1,6 +1,4 @@
-package myproject;
 
-import java.util.*;
 
 class nibble{
  
@@ -16,4 +14,5 @@ class nibble{
 	    
 }
 }
+
  
