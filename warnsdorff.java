@@ -1,4 +1,4 @@
-package myproject;
+
 
 public class warnsdorff {
 	static final int n=6;
@@ -56,5 +56,6 @@ public class warnsdorff {
 	}
 		
 }
+
 
 
