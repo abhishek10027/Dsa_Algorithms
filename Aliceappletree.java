@@ -1,5 +1,4 @@
 
-
 public class Aliceappletree {
 	static int appletree(int n,int s,int e,int w,int m,int k) {
 		if(m<=s*k)
@@ -31,5 +30,6 @@ public static void main(String args[]) {
 	
 	}
 }
+
 
 
